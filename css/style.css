@@ -53,6 +53,9 @@ button {
   text-align: center;
   text-align-last: center;
   text-shadow: 1px 1px 0px #FFFFFF;
+	-moz-appearance: none;
+	-webkit-appearance: none;
+	appearance: none;
 }
 
 input#operation__result {
